@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Task-2-Exploratory-Data-Analysis-EDA---Comprehensive-Guide
+# Task-2-Exploratory-Data-Analysis-EDA
 The primary objective of this project is to extract meaningful insights from raw data through data cleaning, preprocessing, visualization, and statistical analysis. EDA helps identify patterns, trends, anomalies, and relationships within the dataset before applying machine learning models.
 # Titanic Dataset - Exploratory Data Analysis (EDA)
 
