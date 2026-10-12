@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Task-2-Exploratory-Data-Analysis-EDA---Comprehensive-Guide
 The primary objective of this project is to extract meaningful insights from raw data through data cleaning, preprocessing, visualization, and statistical analysis. EDA helps identify patterns, trends, anomalies, and relationships within the dataset before applying machine learning models.
 # Titanic Dataset - Exploratory Data Analysis (EDA)
@@ -259,3 +260,7 @@ Important factors affecting survival:
 
 This project demonstrates how EDA helps convert raw data into meaningful insights.
 
+=======
+# Exploratory-Data-Analysis-EDA
+Exploratory Data Analysis (EDA) projects using Python, Pandas, NumPy, Matplotlib, and Seaborn to clean, analyze, and visualize datasets, identify patterns, detect outliers, and generate meaningful insights for data-driven decision-making.
+>>>>>>> d50a94d1a06e2ea17ea75fb682ed7371a1012fdc
